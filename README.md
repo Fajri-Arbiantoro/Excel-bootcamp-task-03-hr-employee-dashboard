@@ -15,6 +15,7 @@ This project represents another step in developing practical data analysis skill
 ## Project Files
 
 - [Anonymized Excel Workbook (.xlsm, macro-enabled)](./Employee-Dashboard-Anonymized.xlsm)
+- [Project Presentation](./Excel%20Portfolio%20Part%203%20Fajri%20Arbiantoro.pdf)
 
 ## Learning Objectives
 
@@ -117,4 +118,4 @@ I will continue documenting each project, including the techniques I practise, t
 
 **Disclaimer**
 
-This project was completed as part of an advanced Excel Bootcamp for educational and portfolio purposes only. The analysis is based on an employee practice dataset supplied for the assignment. The workbook shared in this repository is an anonymized version prepared for portfolio demonstration: employee names and birthplaces were replaced with generic labels, birth dates were changed to different days and months within the same year (so ages and results are unchanged), and file metadata was removed. The original, non-anonymized workbook is not shared because it may contain personal information. Please do not attempt to identify individuals or use the dataset for purposes beyond this educational demonstration. The project is not intended for commercial use or to represent actual employee data.
+This project was completed as part of an advanced Excel Bootcamp for educational and portfolio purposes only. The analysis is based on an employee practice dataset supplied for the assignment. The workbook shared in this repository is an anonymized version prepared for portfolio demonstration: employee names and birthplaces were replaced with generic labels, birth dates were changed to different days and months within the same year (so ages and results are unchanged), and file metadata was removed. The screenshots in the project presentation were taken from the practice dataset before anonymization. The original, non-anonymized workbook is not shared because it may contain personal information. Please do not attempt to identify individuals or use the dataset for purposes beyond this educational demonstration. The project is not intended for commercial use or to represent actual employee data.
